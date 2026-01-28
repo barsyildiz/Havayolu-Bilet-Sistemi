@@ -11,7 +11,7 @@ Uçuş Akışı: Bilet arama ve satın alma süreçlerinin Java tabanlı iş ak�
 🛠️ Kullanılan Teknolojiler
 Dil: Java
 
-UI: [Buraya Swing veya JavaFX yaz]
+UI: Swing
 
 Versiyon Kontrol: Git & GitHub
 
@@ -27,6 +27,6 @@ Gelecek Planı: Kodun daha modüler hale getirilmesi ve Exception Handling yapı
 Nasıl Kullanılır?
 Bu repoyu bilgisayarınıza indirin (Clone).
 
-[Kullandığın IDE, örn: IntelliJ IDEA] ile projeyi açın.
+Kullandığın IDE ile projeyi açın.
 
 Main.java dosyasını çalıştırarak sistemi başlatın.
